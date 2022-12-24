@@ -19,5 +19,6 @@ jobs:
         custom-title: My GitHub Statistics
         max-languages: 100
         featured-repository: 'Code-Area'
+        hide-keys: 'languages'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
