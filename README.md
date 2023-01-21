@@ -2,7 +2,7 @@
   <h1>About Me</h1>
 
   <h2>My Info</h2>
-Hello! My name is Benjamin. I'm a software developer. I work on small, personal projects mainly, but occasionally help in community projects. I am the CEO of the <a href="https://github.com/GPU-Killers" target="_blank">@GPU-Killers</a> organization. I make websites, games, apps, bots, and much more. I was completely self-taught. I started by learning how to make a Minecraft Bedrock Mod. I, from there and using a book, learned the basics of HTML, CSS, and JavaScript. I kept expanding my knowlage from there and now I can make many things using diiferent programming languages.
+Hello! My name is Benjamin. I'm a software developer. I work on small, personal projects mainly, but occasionally help in community projects. I am the CEO of the <a href="https://github.com/GPU-Killers" target="_blank">@GPU-Killers</a> organization. I make websites, games, apps, bots, and much more. I was completely self-taught. I started by learning how to make a Minecraft Bedrock Mod. I, from there and using a book, learned the basics of HTML, CSS, and JavaScript. I kept expanding my knowledge from there and now I can make many things using diiferent programming languages.
   <hr>
   <h2>Languages I Know</h2>
 
