@@ -12,4 +12,10 @@
   <hr>
   <h2>Stats</h2>
     <img src="images/userstats.svg" alt="User Stats" align="center"/>
+  <hr>
+  <h2>Moving accounts</h2>
+  <p>
+    Due to issues regarding GitHub and it's uptime, I have decided to start migrating to GitLab. Most of my more recent repositories are now over there. The only thing I will keep here are my secutity policy (as I personally love GitHub's UI for making security reports), and really old repos.
+    Please visit at <a target="_blank" href="https://gitlab.com/benshawmean">https://gitlab.com/benshawmean</a> to see the updated repositories
+  </p>
 </div>
